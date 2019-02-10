@@ -1,0 +1,29 @@
+.header-font{
+  font-size: 225px;
+  font-family: 'Yantramanav', sans-serif;
+}
+.sub-header-font{
+  font-size: 175px;
+}
+.tag-line-font{
+  font-size: 70px;
+  font-family: 'Yantramanav', sans-serif;
+  letter-spacing: 3px;
+}
+.h-128{
+  height: 40em;
+}
+
+.header-left{
+  /* background: url('./components/img/bg-left.png');
+  background-size: cover;
+  background-repeat: no-repeat; */
+}
+
+.bg-blue-darkest{
+  background-color: #222F43;
+}
+
+.contact-sq:hover h4{
+  color: #222F43
+}
