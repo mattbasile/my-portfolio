@@ -1,15 +1,11 @@
 .header-font{
-  font-size: 225px;
+  font-size: 180px;
   font-family: 'Yantramanav', sans-serif;
 }
 .sub-header-font{
-  font-size: 175px;
+  font-size: 135px;
 }
-.tag-line-font{
-  font-size: 70px;
-  font-family: 'Yantramanav', sans-serif;
-  letter-spacing: 3px;
-}
+
 .h-128{
   height: 40em;
 }
